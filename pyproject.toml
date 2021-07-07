@@ -1,0 +1,29 @@
+[tool.poetry]
+name = "new_slug"
+version = "0.1.0"
+description = "New Project"
+authors = ["michael <michael@songsleuth.com>"]
+
+[tool.poetry.dependencies]
+python = ">=3.8,<3.10"
+flask = "^1.1.2"
+pydantic = "^1.6.1"
+pyyaml = "^5.3.1"
+google-cloud-storage = "^1.37.0"
+google-cloud-bigquery = "^2.13.1"
+google-cloud-pubsub = "^2.4.1"
+google-cloud-scheduler = "^2.2.0"
+google-cloud-functions = "^0.5.1"
+google-cloud-logging = "^2.3.1"
+google-cloud-monitoring = "^2.2.1"
+google-cloud-monitoring-dashboards = "^2.0.0"
+bs4 = "^0.0.1"
+lxml = "^4.6.3"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+pytest-cov = "^2.11.1"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"

@@ -1,0 +1,27 @@
+[
+  {
+    "mode": "NULLABLE",
+    "name": "Search_Result_UID",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Query_UID",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "YT_Video_ID",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Created_Date",
+    "type": "TIMESTAMP"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Last_Modified",
+    "type": "TIMESTAMP"
+  }
+]

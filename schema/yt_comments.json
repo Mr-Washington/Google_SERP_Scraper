@@ -1,0 +1,41 @@
+[
+  {
+    "mode": "NULLABLE",
+    "name": "Video_UID",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "YT_Comment_ID",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "YT_Comment_Parent_ID",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Text_Display",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Like_Count",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Created_Date",
+    "type": "TIMESTAMP"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Last_Modified",
+    "type": "TIMESTAMP"
+  },
+  {
+    "name": "Published_Date",
+    "type": "TIMESTAMP"
+  }
+]

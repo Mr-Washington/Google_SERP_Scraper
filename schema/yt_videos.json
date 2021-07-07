@@ -1,0 +1,61 @@
+[
+  {
+    "mode": "NULLABLE",
+    "name": "Video_UID",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "YT_Video_ID",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Channel_UID",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Video_Title",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Description",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Duration",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "URL",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Thumbnail_URL",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Contains_License",
+    "type": "BOOLEAN"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Created_Date",
+    "type": "TIMESTAMP"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Last_Modified",
+    "type": "TIMESTAMP"
+  },
+  {
+    "name": "Published_Date",
+    "type": "TIMESTAMP"
+  }
+]

@@ -1,0 +1,16 @@
+This is where I will leave my commands to create a shell script later!
+
+bq mk --table song-sleuth-dev1:youtube_data.query_results_map schema/query_results_map.json
+
+bq mk --table song-sleuth-dev1:youtube_data.yt_channels schema/yt_channels.json
+
+bq mk --table song-sleuth-dev1:youtube_data.yt_comments schema/yt_comments.json
+
+bq mk --table song-sleuth-dev1:youtube_data.yt_license_details schema/yt_license_details.json
+
+bq mk --table song-sleuth-dev1:youtube_data.yt_video_metrics schema/yt_video_metrics.json
+
+bq mk --table song-sleuth-dev1:youtube_data.yt_video_tags_map schema/yt_video_tags_map.json
+
+bq mk --table song-sleuth-dev1:youtube_data.yt_videos schema/yt_videos.json
+

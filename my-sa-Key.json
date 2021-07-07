@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "song-sleuth-dev1",
+  "private_key_id": "954d019d706289525f2e6383688d6f13076a5cd9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC0RqDD2bu13x/N\nzP6B44ua8Qs2IxMSHocct2nUAFIQzQ+n4B7p5uDVkgoVtv0Xb8CoSfmYJ4l6NJas\n8C6YF9tsKX2wHp0soFq8FcMuRuW75AqpkWXRtpiu1wMJpDCznV08tHvuLv3LIM/a\n+EE9Ov4X4flLfDIyWUdxfb0RgiocsCFksBOTVbzQcLQpa5ttZ3Arz6pcCebgcMjn\nTOB+Qb6ijwhCA+qQazPYo1bo33lv+X+RG6jbzj+zEI0tTvGkNozMRaPrtErACRnq\ngq8JY591J74u8xCMVo0hIjL16SVOOlL3VOnjvIHmYMaRXb4ESEj87OBvvi3Fqfcw\n+ZawurYDAgMBAAECggEAAfiNtGZyf2wHkHvvwmLG+XQuL7LVeAq+Zml47jjsrMNZ\nKvgvzlXYWm1kz9T20mVF4XEhmfDAt4XQqeZcVAxauUWA2saS6FR+eXTxc9WRmGrH\nVRBCYTcSV0MBhP73C1eql8nPWwzHeIuMyjORnwZAlelCDPm4IMXKGqsJwKHALR0Z\nFH1MhORHlFfW6Nvv/gk2lyUpQR4zQ/fgoMAkXPCyfOknf7678CCDdllVQvM6njs6\nO3xKPDlaO8wDfRQjFuEDsnZlN62hyddT4CPj6LunHq8TbpjZ6rAAPg3kTuiwVBcT\n4S/x54s1HkKjp/+QMWiKQZf12vveW+8fXwCShWaolQKBgQD+jA0fLvL3oPU6Cvw9\nIboHwLBS1o1JK+F8q1R8qI0ixQt8wPKxowdVrYlgwh12ffr81a0ko1qx4L//dUPk\nmKwztN/hh2bwDz9MVUm9SwgaAti7K3I9jLmi7dBYOtvM87i9rEI4NToDxKXCewrb\nQnp7jV2onWJnIBuYscjWlufmLwKBgQC1TgzjiAIiCaNnSkILl4dPoyCg2GUTjTTe\nUjRf4AuinYH4KDJimfrKvrx9dst0lBTauofOLM7berCQL96vyTnAW2277yn+hMzD\nO6AvJ2Eco7lDzOo4dKfWWdv/PuTi4iHW8L2gLapzmmdCviw61vrDNIdgNzasdMrS\nNwmeWKSMbQKBgQCMeS+YoOk23R3X3U4cUmt+cckcvgiUc+HpUge7D61rncBcJYMJ\nowWeM7mXqyhlRtrnAuidSoT3myd5y/Yexl5p3oyawoV9P3zYHE0oaKrc5+tBR5Ww\n/+NGVeVfe4PnVC0Eh3a33C/a+n/bltmD7Oj5HCeusMQoUyDHoH1MZ1UswwKBgH9D\nJATqSST/QvWTyDw+xrn9tT9x5bENoxiS9zR9HW2txbcc8BEKKGH79G7U3gcckm7e\nE8mC5khlHF55W4RkaOc+xg3u2LlRGjHIPq4apC3oNnkC8z1hlRX+yU+nJB6lwD8R\niOlQZJ70uJq+xmke0bIHwyakWvo+mMdp3pSJgCcZAoGBAJJu2a9q3RnzTdXuXsxC\nZAmydW/TZKNa1QTCVSXItuEiWJVpwtLKMTfodL/x6Cw6C4jDKRQBYg9O2wUzL7AQ\nGJaQrkuZUUGCZi/lAKSM+wu0pAWCBY9BWUrh+VU/3ObISUrul/7pyIpXfJuFmFbU\nHX/A22PPf9UlkLoHmgbsI6QM\n-----END PRIVATE KEY-----\n",
+  "client_email": "my-service-account@song-sleuth-dev1.iam.gserviceaccount.com",
+  "client_id": "110791829999867665695",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/my-service-account%40song-sleuth-dev1.iam.gserviceaccount.com"
+}

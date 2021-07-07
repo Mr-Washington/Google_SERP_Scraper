@@ -1,0 +1,18 @@
+# Enable debug output (logging, additional messages, etc)
+ETLS:
+  - source_storage_uri: 'gs://dev1-yt-videos-to-bq-upload'
+    destination_table: 'youtube_data.yt_videos'
+  - source_storage_uri: 'gs://dev1-yt-comments-to-bq-upload'
+    destination_table: 'youtube_data.yt_comments'
+  - source_storage_uri: 'gs://dev1-yt-channels-to-bq-upload'
+    destination_table: 'youtube_data.yt_channels'
+  - source_storage_uri: 'gs://dev1-yt-video-metrics-to-bq-upload'
+    destination_table: 'youtube_data.yt_video_metrics'
+  - source_storage_uri: 'gs://dev1-yt-tags-map-to-bq-upload'
+    destination_table: 'youtube_data.yt_video_tags_map'
+  - source_storage_uri: 'gs://dev1-yt-license-details-to-bq-upload'
+    destination_table: 'youtube_data.yt_license_details'
+  - source_storage_uri: 'gs://dev1-bing-search-query-result-map-to-bq-upload'
+    destination_table: 'youtube_data.query_results_map'
+  - source_storage_uri: 'gs://dev1-bing-search-query-with-terms-to-bq-upload'
+    destination_table: 'youtube_data.query_details'

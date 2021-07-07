@@ -1,0 +1,42 @@
+[
+  {
+    "mode": "NULLABLE",
+    "name": "License_UID",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Video_UID",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Song_Name",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Writers",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Album",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Licensors",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Created_Date",
+    "type": "TIMESTAMP"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Last_Modified",
+    "type": "TIMESTAMP"
+  }
+]

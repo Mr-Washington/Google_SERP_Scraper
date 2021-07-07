@@ -1,0 +1,52 @@
+[
+  {
+    "mode": "NULLABLE",
+    "name": "Query_UID",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Query",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Artist",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Alias",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Song",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Suffix",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Created_Date",
+    "type": "TIMESTAMP"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Last_Modified",
+    "type": "TIMESTAMP"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Search_Endpoint",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Run_Id",
+    "type": "STRING"
+  }
+]

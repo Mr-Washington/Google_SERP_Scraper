@@ -1,0 +1,67 @@
+[
+  {
+    "mode": "NULLABLE",
+    "name": "Channel_UID",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Channel_Name",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Channel_URL",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Channel_Description",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "YT_Channel_ID",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Subscribers",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "View_Count",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Artist_Official",
+    "type": "BOOLEAN"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Verified",
+    "type": "BOOLEAN"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Monetizable",
+    "type": "BOOLEAN"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Published_At",
+    "type": "DATE"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Created_Date",
+    "type": "TIMESTAMP"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Last_Modified",
+    "type": "TIMESTAMP"
+  }
+]
